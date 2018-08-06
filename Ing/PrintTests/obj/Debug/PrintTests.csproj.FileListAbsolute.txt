@@ -1,0 +1,17 @@
+C:\Users\andre.nascimento\source\repos\Ing\PrintTests\obj\Debug\PrintTests.csproj.CoreCompileInputs.cache
+C:\Users\andre.nascimento\source\repos\Ing\PrintTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\andre.nascimento\source\repos\Ing\PrintTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\andre.nascimento\source\repos\Ing\PrintTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\andre.nascimento\source\repos\Ing\PrintTests\bin\Debug\PrintTests.dll
+C:\Users\andre.nascimento\source\repos\Ing\PrintTests\bin\Debug\PrintTests.pdb
+C:\Users\andre.nascimento\source\repos\Ing\PrintTests\bin\Debug\Ing.exe
+C:\Users\andre.nascimento\source\repos\Ing\PrintTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\andre.nascimento\source\repos\Ing\PrintTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\andre.nascimento\source\repos\Ing\PrintTests\bin\Debug\Ing.pdb
+C:\Users\andre.nascimento\source\repos\Ing\PrintTests\bin\Debug\Ing.exe.config
+C:\Users\andre.nascimento\source\repos\Ing\PrintTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\andre.nascimento\source\repos\Ing\PrintTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\andre.nascimento\source\repos\Ing\PrintTests\obj\Debug\PrintTests.csprojAssemblyReference.cache
+C:\Users\andre.nascimento\source\repos\Ing\PrintTests\obj\Debug\PrintTests.csproj.CopyComplete
+C:\Users\andre.nascimento\source\repos\Ing\PrintTests\obj\Debug\PrintTests.dll
+C:\Users\andre.nascimento\source\repos\Ing\PrintTests\obj\Debug\PrintTests.pdb

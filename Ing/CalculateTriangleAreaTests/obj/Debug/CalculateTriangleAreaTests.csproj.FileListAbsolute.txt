@@ -1,0 +1,17 @@
+C:\Users\andre.nascimento\source\repos\Ing\CalculateTriangleAreaTests\obj\Debug\CalculateTriangleAreaTests.csproj.CoreCompileInputs.cache
+C:\Users\andre.nascimento\source\repos\Ing\CalculateTriangleAreaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\andre.nascimento\source\repos\Ing\CalculateTriangleAreaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\andre.nascimento\source\repos\Ing\CalculateTriangleAreaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\andre.nascimento\source\repos\Ing\CalculateTriangleAreaTests\bin\Debug\CalculateTriangleAreaTests.dll
+C:\Users\andre.nascimento\source\repos\Ing\CalculateTriangleAreaTests\bin\Debug\CalculateTriangleAreaTests.pdb
+C:\Users\andre.nascimento\source\repos\Ing\CalculateTriangleAreaTests\bin\Debug\Ing.exe
+C:\Users\andre.nascimento\source\repos\Ing\CalculateTriangleAreaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\andre.nascimento\source\repos\Ing\CalculateTriangleAreaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\andre.nascimento\source\repos\Ing\CalculateTriangleAreaTests\bin\Debug\Ing.pdb
+C:\Users\andre.nascimento\source\repos\Ing\CalculateTriangleAreaTests\bin\Debug\Ing.exe.config
+C:\Users\andre.nascimento\source\repos\Ing\CalculateTriangleAreaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\andre.nascimento\source\repos\Ing\CalculateTriangleAreaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\andre.nascimento\source\repos\Ing\CalculateTriangleAreaTests\obj\Debug\CalculateTriangleAreaTests.csprojAssemblyReference.cache
+C:\Users\andre.nascimento\source\repos\Ing\CalculateTriangleAreaTests\obj\Debug\CalculateTriangleAreaTests.csproj.CopyComplete
+C:\Users\andre.nascimento\source\repos\Ing\CalculateTriangleAreaTests\obj\Debug\CalculateTriangleAreaTests.dll
+C:\Users\andre.nascimento\source\repos\Ing\CalculateTriangleAreaTests\obj\Debug\CalculateTriangleAreaTests.pdb

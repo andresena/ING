@@ -1,0 +1,17 @@
+C:\Users\andre.nascimento\source\repos\Ing\ListCompareTests\obj\Debug\ListCompareTests.csproj.CoreCompileInputs.cache
+C:\Users\andre.nascimento\source\repos\Ing\ListCompareTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\andre.nascimento\source\repos\Ing\ListCompareTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\andre.nascimento\source\repos\Ing\ListCompareTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\andre.nascimento\source\repos\Ing\ListCompareTests\bin\Debug\ListCompareTests.dll
+C:\Users\andre.nascimento\source\repos\Ing\ListCompareTests\bin\Debug\ListCompareTests.pdb
+C:\Users\andre.nascimento\source\repos\Ing\ListCompareTests\bin\Debug\Ing.exe
+C:\Users\andre.nascimento\source\repos\Ing\ListCompareTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\andre.nascimento\source\repos\Ing\ListCompareTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\andre.nascimento\source\repos\Ing\ListCompareTests\bin\Debug\Ing.pdb
+C:\Users\andre.nascimento\source\repos\Ing\ListCompareTests\bin\Debug\Ing.exe.config
+C:\Users\andre.nascimento\source\repos\Ing\ListCompareTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\andre.nascimento\source\repos\Ing\ListCompareTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\andre.nascimento\source\repos\Ing\ListCompareTests\obj\Debug\ListCompareTests.csprojAssemblyReference.cache
+C:\Users\andre.nascimento\source\repos\Ing\ListCompareTests\obj\Debug\ListCompareTests.csproj.CopyComplete
+C:\Users\andre.nascimento\source\repos\Ing\ListCompareTests\obj\Debug\ListCompareTests.dll
+C:\Users\andre.nascimento\source\repos\Ing\ListCompareTests\obj\Debug\ListCompareTests.pdb

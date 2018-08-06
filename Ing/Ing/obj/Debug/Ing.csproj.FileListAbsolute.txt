@@ -1,0 +1,6 @@
+C:\Users\andre.nascimento\source\repos\Ing\Ing\obj\Debug\Ing.csproj.CoreCompileInputs.cache
+C:\Users\andre.nascimento\source\repos\Ing\Ing\bin\Debug\Ing.exe.config
+C:\Users\andre.nascimento\source\repos\Ing\Ing\bin\Debug\Ing.exe
+C:\Users\andre.nascimento\source\repos\Ing\Ing\bin\Debug\Ing.pdb
+C:\Users\andre.nascimento\source\repos\Ing\Ing\obj\Debug\Ing.exe
+C:\Users\andre.nascimento\source\repos\Ing\Ing\obj\Debug\Ing.pdb
